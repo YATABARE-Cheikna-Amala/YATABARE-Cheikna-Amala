@@ -17,8 +17,7 @@ Je m'intéresse actuellement à :
 Je serait ravi de travailler en equipe sur :
 - La contribution à des projets open-source
 - La création d'un modèle de machine learning 
-- projet de computer de vision ou de classification d'images 
-- projet necessitant l'utilisation de data geospatial
+- projet de  classification d'images 
 - La création de solutions basées sur les données (ACP,test, estimation,serie temporaire,ANOVA,ect)
 - projet necessitant de manipuler des tera octets de data
 

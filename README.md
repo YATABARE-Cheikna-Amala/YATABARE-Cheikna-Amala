@@ -4,12 +4,10 @@ Je suis YATABARE Cheikna Amala
 
 ---
 
-## 🌱 En ce moment, ...
+##  En ce moment, ...
 
 Je m'intéresse actuellement à :
 - machine learning
-- deep learning
-- dev mobile
 
 ---
 
@@ -17,8 +15,8 @@ Je m'intéresse actuellement à :
 
 Je serait ravi de travailler en equipe sur :
 - La contribution à des projets open-source
-- La création d'un modèle de deep learning/machine learning from scratch
-- projet de computer de vision ou de classification d'images (SVM,yolo,ect)
+- La création d'un modèle de machine learning 
+- projet de computer de vision ou de classification d'images 
 - projet necessitant l'utilisation de data geospatial
 - La création de solutions basées sur les données (ACP,test, estimation,serie temporaire,ANOVA,ect)
 - projet necessitant de manipuler des tera octets de data

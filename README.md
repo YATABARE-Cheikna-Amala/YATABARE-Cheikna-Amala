@@ -39,4 +39,4 @@ Je suis toujours ouvert à collaborer sur des projets intéressants. Que ce soit
 📫 **Me contacter** : yatabarecheikamala@gmail.com 
 
 ---
-##Without data, you're just another person with an opinion.”  W. Edwards Deming
+## Without data, you're just another person with an opinion.”  W. Edwards Deming

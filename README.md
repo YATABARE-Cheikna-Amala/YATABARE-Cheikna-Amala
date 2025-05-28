@@ -25,6 +25,10 @@ Je serait ravi de travailler en equipe sur :
 
 ## 📊 Statistiques GitHub
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YATABARE-Cheikna-Amala&theme=react-dark&hide_border=true&area=true" alt="Graphique d'activité GitHub">
+</p>
+
 ![Mes stats GitHub](https://github-readme-stats.vercel.app/api?username=YATABARE-Cheikna-Amala&show_icons=true&count_private=true&theme=radical)  
 ![Langages principaux](https://github-readme-stats.vercel.app/api/top-langs/?username=YATABARE-Cheikna-Amala&layout=compact&theme=radical)
 
